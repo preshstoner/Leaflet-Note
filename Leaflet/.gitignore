@@ -1,0 +1,30 @@
+## .NET Build Outputs & Caches
+[Bb]in/
+[Oo]bj/
+artifacts/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+project.lock.json
+
+## IDE Files (Visual Studio & VS Code)
+.vs/
+.vscode/
+*.sln.docstates
+
+## Operating System Junk Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+&RECYCLE.BIN/
+
+## Leaflet Specific Artifacts & Local Data
+# Local autosaves, lock files, and test PDFs
+.leaflet.lock
+.leaflet_)autosave.md
+*.pdf
+
+# Local Vault folders (if accidentally created inside the  workspace)
+LeafletVault/
